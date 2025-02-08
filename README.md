@@ -4,4 +4,6 @@
 Um sistema básico de caixa eletronico escrito totalmente em linguagem PHP.
 </h3>
 
-<img src="caixa_php.png">
+<video controls='controls'>
+  <source src="caixa_php.mp4">
+</video>
